@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexforever1982
 - 👀 I’m interested in C++ programming, computer simulation, physics engines and 3D graphics
-- 🌱 I’m currently learning a cloth simulation
+- 🌱 I’m currently learning a cloth simulation and physically based rendering
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: alexforever1982@gmail.com, alex_forever_82@mail.ru, alexander.yakimov.skype
 
